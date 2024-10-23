@@ -1,6 +1,8 @@
 # Resume
 This is a project wich resolves a Test for a company which consists of a shopping cart with React.js and TailwindCSS.
 
+📄[Step-By-Step Doc](https://github.com/AFBGdev/stgen-test/blob/main/step-by-step-doc.md)
+
 ![image](https://github.com/user-attachments/assets/0486b521-71a3-4525-88d5-a2d91625e6c7)
 
 ![image](https://github.com/user-attachments/assets/8b615604-472e-4db4-9d40-dc09518395ab)
