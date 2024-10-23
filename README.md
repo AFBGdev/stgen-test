@@ -11,7 +11,9 @@ This is a project wich resolves a Test for a company.
 ## Run project
 1. Clone the repository
 
-2. Then run:
+2. Rename the `.env.template` file to `.env.local` or create following the template
+
+3. Then run:
 ``` bash
   cd <proyect_clone_path>/stgen-test
   pnpm install
