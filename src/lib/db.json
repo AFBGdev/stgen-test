@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": "7bd9c182-dbed-4bd6-b24c-7fd75a1f518a",
+      "naavCode": "551AN01766",
+      "regName": "BEEF #1",
+      "isMale": true,
+      "tatoo": "89585",
+      "born": "7/29/2020",
+      "urlImage": "https://i2.pickpik.com/photos/601/135/778/beef-animal-bull-brown-white-preview.jpg",
+      "values": {
+        "mValue": 78,
+        "bValue": 193,
+        "cValue": 323
+      },
+      "price": 300
+    },
+    {
+      "id": "9fdbc69b-c086-4179-a18f-3d8233cdf9f5",
+      "naavCode": "551AN01766",
+      "regName": "BEEF #2",
+      "isMale": true,
+      "tatoo": "89585",
+      "born": "7/29/2020",
+      "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5Qv3jOC0QgtbGTNJYL1QlHZfky6WOYEpcQ&s",
+      "values": {
+        "mValue": 78,
+        "bValue": 193,
+        "cValue": 323
+      },
+      "price": 300
+    },
+    {
+      "id": "8dca18dc-f694-415e-96a8-0155a680320e",
+      "naavCode": "551AN01766",
+      "regName": "BEEF #3",
+      "isMale": true,
+      "tatoo": "89585",
+      "born": "7/29/2020",
+      "urlImage": "https://i2.pickpik.com/photos/601/135/778/beef-animal-bull-brown-white-preview.jpg",
+      "values": {
+        "mValue": 78,
+        "bValue": 193,
+        "cValue": 323
+      },
+      "price": 300
+    },
+    {
+      "id": "51e39d96-360d-40e4-b4e2-dc4e0aaa4117",
+      "naavCode": "551AN01766",
+      "regName": "BEEF #4",
+      "isMale": true,
+      "tatoo": "89585",
+      "born": "7/29/2020",
+      "urlImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5Qv3jOC0QgtbGTNJYL1QlHZfky6WOYEpcQ&s",
+      "values": {
+        "mValue": 78,
+        "bValue": 193,
+        "cValue": 323
+      },
+      "price": 300
+    },
+    {
+      "id": "a3abe76f-c67e-400c-ae52-e21342abfe95",
+      "naavCode": "551AN01766",
+      "regName": "BEEF #5",
+      "isMale": true,
+      "tatoo": "89585",
+      "born": "7/29/2020",
+      "urlImage": "https://i2.pickpik.com/photos/601/135/778/beef-animal-bull-brown-white-preview.jpg",
+      "values": {
+        "mValue": 78,
+        "bValue": 193,
+        "cValue": 323
+      },
+      "price": 300
+    }
+  ]
+}
